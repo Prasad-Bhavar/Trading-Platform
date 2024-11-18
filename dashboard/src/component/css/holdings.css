@@ -1,0 +1,24 @@
+.order-table table tr th{
+    padding-right: 5rem;
+    padding-bottom: 1rem;
+    font-size: 1rem;
+    border-bottom: 1px solid gray;
+
+}
+.order-table table tr td{
+
+    padding-right: 4rem;
+    padding-bottom: 0.5rem;
+    font-size: 0.7rem;
+}
+.order-table{
+    margin-top: 2rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+/* .table-row th{
+    padding-right: 1rem;
+} */
+.loss{
+    color: red;
+}

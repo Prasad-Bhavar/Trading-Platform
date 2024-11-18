@@ -1,0 +1,18 @@
+.item{
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-item:hover{
+    background-color:white;
+    cursor: pointer;
+    
+}
+.watchlist-btn{
+    font-size: 0.8rem;
+    width: 3rem;
+    /* height: 1rem; */
+    padding: 0.3rem;
+    margin: 0 0.2rem 0.3rem 0.3rem;
+} 
+ 

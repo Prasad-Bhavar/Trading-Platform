@@ -1,0 +1,12 @@
+.menu-class{
+    color: black;
+}
+
+.menu-class:hover{
+    color: orange;
+    
+}
+
+.active-menu-class{
+    color: orange;
+}

@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nav-link{
+  margin-left: 3rem;
+}
+/* footer */
+.footer-icons i {
+  margin-right: 1.8rem;
+  font-size: 25px;
+  color: rgb(102, 104, 104);
+}
+.footer-icons i:hover {
+  cursor: pointer;
+  /* font-size: 27px; */
+  color: rgb(78, 78, 78);
+}
+.footer-info{
+  font-size: 0.9rem;
+  color: rgb(134, 134, 134);
+}
+.footer-links a{
+  
+  text-decoration: none;
+  color: grey;
+  margin-top: 30px;
+  
+}
+.footer-links a:hover{
+  
+  color: rgb(105, 153, 235);
+  text-decoration: solid rgb(154, 177, 255) underline;
+}
+
+/* team */
+.founder-img{
+  height: 60%;
+  width: 60%;
+  background-size: cover;
+  border-radius: 100%;
+  overflow: hidden;
+  margin-left: 100px;
+}
+
+/* //product */
+.extra-margin{
+  margin-top: 100px;
+}
+
+/* //support page */
+.support-Hero{
+  background-color: #387ed1;
+  color: white;
+}
+.support-Title{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 10rem;
+  padding: 2rem 1.2rem;
+}
+.support-Hero a{
+  color: white;
+}
+#support-col{
+  padding: 1rem 0;
+  padding-left: 12rem;
+  margin-bottom: 3rem;
+}
+#support-col input{
+  margin:1.5rem 0 ;
+
+}
